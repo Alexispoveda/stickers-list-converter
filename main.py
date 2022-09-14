@@ -1,4 +1,4 @@
-from fastapi import FastAPI, UploadFile, File
+from fastapi import FastAPI, File
 from fastapi.responses import FileResponse
 import uvicorn
 import json
